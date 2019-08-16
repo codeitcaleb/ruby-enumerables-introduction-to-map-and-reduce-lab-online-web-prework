@@ -1,7 +1,6 @@
 # My Code here....
 
 def map_negativize(source_array)
-  source_array.map |s|
+  source_array.map {|s| s * -1 }
   
-end
 end  
