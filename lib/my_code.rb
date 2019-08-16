@@ -1,5 +1,5 @@
 # My Code here....
 
-def map_negativize(source_argument)
+def map_negativize(source_array)
   
 end  
