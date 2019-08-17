@@ -13,6 +13,6 @@ def map_to_double(source_array)
   source_array.map {|s| s * 2} 
 end  
 
-def map_to_square
+def map_to_square(source_array)
   source_array.map {|s| s * s} 
 end  
